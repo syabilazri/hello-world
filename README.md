@@ -1,6 +1,4 @@
 # hello-world
-This is for my first projects as I learn coding
+I'm using this repository to learn more about scientific coding mainly on Python
 
-I'm using this repository to learn more about scientific coding. Painly on Python
-
-I will be tryng to save my Jupyter Notebooks here too if that's a possibility
+I will be tryng to save my Jupyter Notebooks here too if that's a possibility, because I'm very proud of my work and I want people to see it
