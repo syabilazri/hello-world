@@ -8,7 +8,3 @@ GitHub is quite terrifying.
 So this readme file has been edited on my own laptop after cloning it from my existing repository.
 
 Test 2 for adding new things onto GitHub
-
-Test 3, This is a new line. I will probably remove this
-
-Line 4 to add more things, added at the same time as line 3
