@@ -8,3 +8,7 @@ GitHub is quite terrifying.
 So this readme file has been edited on my own laptop after cloning it from my existing repository.
 
 Test 2 for adding new things onto GitHub
+
+Test 3 added this and then used git add without committing
+
+Test 4 I added this new line after I added Test 3 to staging without commit
